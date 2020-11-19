@@ -1,0 +1,26 @@
+---
+title: "DS412 - Assignment 2"
+author: "Saha Debanshee Gopal"
+date: "10/17/2016"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Link to the website : [Assignment 2](http://debansheesaha.weebly.com/)
+
+Link to the file : [Google Drive](https://drive.google.com/file/d/0B8Hl_PBTUINDTnF5NVhDdDlvZVk/view)
+
+Screenshots:
+
+![](F:/Semester 7/inferential stats/Lab/pic1.png)
+
+![](F:/Semester 7/inferential stats/Lab/pic2.png)
+
+![](F:/Semester 7/inferential stats/Lab/pic3.png)
+
+![](F:/Semester 7/inferential stats/Lab/pic5.png)
+
+![](F:/Semester 7/inferential stats/Lab/pic6.png)
